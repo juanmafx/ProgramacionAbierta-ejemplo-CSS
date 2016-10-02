@@ -1,0 +1,149 @@
+
+/* Space out content a bit */
+
+.juanma{
+font-size:90px;
+}
+
+.a{
+text-decoration:none;}
+
+.fmdc{
+background: #2081EE;
+font-size: 16px;
+line-height: 32px;
+padding: 12px;
+color: white;
+border-radius: 15px;
+font-weight: bold;
+text-align:center;
+cursor:pointer;
+}
+//**
+.fmdc:hover{background:#7F9CBD;}
+**/
+
+.fideos{
+font-size:24px;
+}
+.formi{
+width: 98%;
+font-weight: bold;
+}
+
+
+#marina{
+margin-right: -15px;
+margin-left: -15px;
+background: rgb(229, 228, 240);
+margin-top: 14px;
+border-radius: 12px;}
+
+body {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  background: rgba(13, 30, 45, 0.05);
+}
+
+//**   background-image:url("http://sillasdoradas.com/img/jakard.jpg");  ///**///
+
+.campo{
+width:100%;
+}
+.mavi{
+font-family: 'Julius Sans One', sans-serif;
+cursor:pointer;
+}
+.boton{
+color: #ffffff;
+background-color: #428bca;
+width:100%;
+margin:2px;
+}
+.boton:hover{
+}
+.bajada{
+margin-top: -27px;
+font-family: 'Julius Sans One', sans-serif;
+font-size:21px;
+}
+
+.datos{
+font-size:18px;}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 800px;
+  }
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 15px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 3px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
+
+.center{
+text-align:center;}
