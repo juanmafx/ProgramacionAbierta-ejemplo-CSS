@@ -1,5 +1,4 @@
 # ProgramacionAbierta-ejemplo-CSS
-********************
 Programación Abierta
 ********************
 
@@ -8,8 +7,8 @@ Explicacion de "Que es un DIV"
 
 "ATENCIÓN / PUNTOS IMPORTANTES"
 
-#En la linea de codigo del archivo
-#En la linea de codigo del archivo
+*En la linea de codigo del archivo
+En la linea de codigo del archivo
 #En la linea de codigo del archivo
 #En la linea de codigo del archivo
 #En la linea de codigo del archivo
