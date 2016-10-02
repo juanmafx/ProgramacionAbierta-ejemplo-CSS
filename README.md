@@ -1,6 +1,7 @@
 #¿Que es un DIV?
+<a href="https://juanmafx.github.io/Que-es-un-div/">
 ![alt tag](que-es-un-div.bmp)
-
+</a>
 >ATENCIÓN  PUNTOS IMPORTANTES DEL FICHERO
 
 En la linea de codigo 6 del archivo index.html:
