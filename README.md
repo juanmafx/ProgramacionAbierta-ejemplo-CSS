@@ -29,8 +29,8 @@ Se llama al archivo css que contiene un css llamado temp.css que es una plantill
 
 
 
-Ejemplo:
+Ejemplo:<br>
 https://juanmafx.github.io/Que-es-un-div/
 
-Fuente:
+Fuente:<br>
 http://programacionabierta.com
