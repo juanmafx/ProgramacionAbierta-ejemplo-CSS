@@ -1,20 +1,13 @@
 # ProgramacionAbierta-ejemplo-CSS
-Programación Abierta
-********************
 
-En este fichro EJEMPLO de  CSS/Bootrap.
+#En este fichro EJEMPLO de  CSS/Bootrap.
 Explicacion de "Que es un DIV"
 
-"ATENCIÓN / PUNTOS IMPORTANTES"
+>ATENCIÓN  PUNTOS IMPORTANTES DEL FICHERO
 
-*En la linea de codigo del archivo
-En la linea de codigo del archivo
-#En la linea de codigo del archivo
-#En la linea de codigo del archivo
-#En la linea de codigo del archivo
-#En la linea de codigo del archivo
-
-
+```
+En la linea de codigo 20 del archivo `index.html`
+```
 
 
 Fuente:
