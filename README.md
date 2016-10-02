@@ -1,12 +1,34 @@
 #¿Que es un DIV?
 ![alt tag](que-es-un-div.bmp)
+
 >ATENCIÓN  PUNTOS IMPORTANTES DEL FICHERO
 
-`index.html`
-```
-En la linea de codigo 6 del archivo index.html se llaman  al archivo css ejemplo.css que entregan los colores y el formatos para los 3 DIVs del ejemplo.
-En la linea de codigo 7 eel archivo index.html se llama al 
-```
+En la linea de codigo 6 del archivo index.html:
+Se llaman  al archivo css ejemplo.css que entregan los colores y el formatos para los 3 DIVs del ejemplo.
+
+En la linea de codigo 7 del archivo index.html:
+Se llama al archivo css que contiene a  Bootstrap que esta bajo el nombre css.css
+
+En la linea de codigo 8 del archivo index.html:
+Se llama al archivo css que contiene un css llamado temp.css que es una plantilla para manejar funciones ajenas al ejemplo. 
+
+
+#Los divs puntualmente:
+
+<div class="container">
+
+<div class="col-lg-12" id="doce">  <b>&lt;</b>  div class="col-lg-12" id="doce"   <b>&gt;</b></div>
+
+<div class="col-lg-6" id="seis-a"> <b>&lt;</b>  div class="col-lg-12" id="seis1"  <b>&gt;</b></div>
+
+<div class="col-lg-6" id="seis-b"> <b>&lt;</b>  div class="col-lg-12" id="seis2"  <b>&gt;</b></div>
+
+
+</div>
+
+
+
+
 Ejemplo:
 https://juanmafx.github.io/ProgramacionAbierta-ejemplo-CSS/
 
