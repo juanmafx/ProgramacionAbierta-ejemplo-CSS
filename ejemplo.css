@@ -1,0 +1,36 @@
+#doce{
+    background-color: #60a1ff;
+    border-radius: 49px;
+    height: 326px;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 127px;
+    color: white
+}
+
+#seis-a{
+    background-color:#5742ca;
+    border-radius:49px;
+    height:326px;
+    font-size:15px;
+	  text-align: center;
+    padding-top: 127px;
+    color:white;
+    margin:1%;
+    width:48%;
+    font-weight: bold;
+}
+
+#seis-b{
+    background-color: #5cb85c;
+    border-radius:49px;
+    height:326px;
+    font-size:15px;
+	  text-align: center;
+    padding-top: 127px;
+    color:white;
+	  margin:1%;
+	  width:48%;
+	  font-weight: bold;
+}
+	
