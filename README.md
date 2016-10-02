@@ -15,16 +15,16 @@ Se llama al archivo css que contiene un css llamado temp.css que es una plantill
 
 #Los divs puntualmente:
 
-<div class="container">
+<b>&lt;</b>  div class="container"   <b>&gt;</b>
 
-<div class="col-lg-12" id="doce">  <b>&lt;</b>  div class="col-lg-12" id="doce"   <b>&gt;</b></div>
+<b>&lt;</b>  div class="col-lg-12" id="doce"   <b>&gt;</b><b>&lt;</b>/div <b>&gt;</b>
 
-<div class="col-lg-6" id="seis-a"> <b>&lt;</b>  div class="col-lg-12" id="seis1"  <b>&gt;</b></div>
+<b>&lt;</b>  div class="col-lg-12" id="seis1"  <b>&gt;</b><b>&lt;</b>/div <b>&gt;</b>
 
-<div class="col-lg-6" id="seis-b"> <b>&lt;</b>  div class="col-lg-12" id="seis2"  <b>&gt;</b></div>
+<b>&lt;</b>  div class="col-lg-12" id="seis2"  <b>&gt;</b><b>&lt;</b>/div <b>&gt;</b>
 
 
-</div>
+<b>&lt;</b>/div <b>&gt;</b>
 
 
 
