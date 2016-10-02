@@ -30,7 +30,7 @@ Se llama al archivo css que contiene un css llamado temp.css que es una plantill
 
 
 Ejemplo:
-https://juanmafx.github.io/ProgramacionAbierta-ejemplo-CSS/
+https://juanmafx.github.io/Que-es-un-div/
 
 Fuente:
 http://programacionabierta.com
