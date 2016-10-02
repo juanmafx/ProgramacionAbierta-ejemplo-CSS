@@ -6,7 +6,7 @@ Try this markdown:
 ![alt tag](http://url/to/img.png)
 I think you can link directly to the raw version of an image if it's stored in your repository. i.e.
 
-![alt tag](https://raw.githubusercontent.com/juanmafx/ProgramacionAbierta-ejemplo-CSS/branch/path/to/img.png)
+![alt tag](que-es-un-div.bmp)
 
 
 
